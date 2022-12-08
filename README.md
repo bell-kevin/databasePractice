@@ -24,11 +24,11 @@ Self Join
 
 ![p](https://github.com/bell-kevin/databasePractice/blob/main/selfJoin.PNG)
 
+![p](https://github.com/bell-kevin/databasePractice/blob/main/snip.PNG)
+
 Union All
 
 ![p](https://github.com/bell-kevin/databasePractice/blob/main/unionAllMariaDB.PNG)
-
-![p](
 
 ![p](
 
