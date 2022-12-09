@@ -1,6 +1,6 @@
 # Human Resources database
 
-![p](
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/diagramHR.PNG)
 
 Left Join
 
@@ -24,8 +24,6 @@ Cross Join
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/crossJoinMariaDB.PNG)
 
-
-
 Union
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/UnionMariaDB.PNG)
@@ -33,10 +31,6 @@ Union
 Union All
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/unionAllMariaDB.PNG)
-
-![p](
-
-![p](
 
 == We're Using GitHub Under Protest ==
 
