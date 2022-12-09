@@ -4,33 +4,35 @@
 
 Left Join
 
-![p](https://github.com/bell-kevin/databasePractice/blob/main/LeftJoin.PNG)
-
-Double Left Join
-
-![p](https://github.com/bell-kevin/databasePractice/blob/main/LeftJoin2.PNG)
-
-Union
-
-![p](https://github.com/bell-kevin/databasePractice/blob/main/UnionMariaDB.PNG)
-
-Cross Join
-
-![p](https://github.com/bell-kevin/databasePractice/blob/main/crossJoinMariaDB.PNG)
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/LeftJoin.PNG)
 
 Right Join
 
-![p](https://github.com/bell-kevin/databasePractice/blob/main/rightJoin.PNG)
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/rightJoin.PNG)
 
 Self Join
 
-![p](https://github.com/bell-kevin/databasePractice/blob/main/selfJoin.PNG)
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/selfJoin.PNG)
 
-![p](https://github.com/bell-kevin/databasePractice/blob/main/snip.PNG)
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/snip.PNG)
+
+Double Left Join
+
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/LeftJoin2.PNG)
+
+Cross Join
+
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/crossJoinMariaDB.PNG)
+
+
+
+Union
+
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/UnionMariaDB.PNG)
 
 Union All
 
-![p](https://github.com/bell-kevin/databasePractice/blob/main/unionAllMariaDB.PNG)
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/unionAllMariaDB.PNG)
 
 ![p](
 
