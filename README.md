@@ -18,6 +18,8 @@ Self Join
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/snip.PNG)
 
+If anybody can figure-out how to show another column displaying the boss' boss, email me, bellKevin@pm.me
+
 Double Left Join
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/LeftJoin2.PNG)
