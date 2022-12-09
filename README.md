@@ -2,6 +2,8 @@
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/diagramHR.PNG)
 
+![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/SQL-Sample-Database-Schema.png)
+
 Left Join
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/LeftJoin.PNG)
