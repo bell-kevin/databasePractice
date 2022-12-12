@@ -18,7 +18,7 @@ Self Join
 
 ![p](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/snip.PNG)
 
-![theBossOfTheBossPictureGoesHerePleaseAddMe](     )
+![theBossOfTheBossPictureGoesHerePleaseAddMe](https://github.com/bell-kevin/humanResourcesDatabase/blob/main/pictures/SAVEmE.PNG)
 
 Double Left Join
 
